@@ -96,7 +96,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stock_management',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': 'Cr.0052453',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
